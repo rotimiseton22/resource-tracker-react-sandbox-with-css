@@ -1,0 +1,64 @@
+{
+  "resources": [
+    {
+      "typeSlug": "dispenser-jar",
+      "id": "dispenser-jar-0001",
+      "availableForDelivery": false,
+      "lastLocationId": "customer-0001"
+    },
+    {
+      "typeSlug": "dispenser-jar",
+      "id": "dispenser-jar-0002",
+      "availableForDelivery": true,
+      "lastLocationId": "owned-0001"
+    },
+    {
+      "typeSlug": "dispenser-jar",
+      "id": "dispenser-jar-0003",
+      "availableForDelivery": false,
+      "lastLocationId": "customer-0001"
+    },
+    {
+      "typeSlug": "dispenser-jar",
+      "id": "dispenser-jar-0004",
+      "availableForDelivery": true,
+      "lastLocationId": "owned-0001"
+    },
+    {
+      "typeSlug": "dispenser-jar",
+      "id": "dispenser-jar-0005",
+      "availableForDelivery": false,
+      "lastLocationId": "customer-0002"
+    },
+    {
+      "typeSlug": "dispenser-jar",
+      "id": "dispenser-jar-0006",
+      "availableForDelivery": false,
+      "lastLocationId": "customer-0001"
+    },
+    {
+      "typeSlug": "dispenser-jar",
+      "id": "dispenser-jar-0007",
+      "availableForDelivery": true,
+      "lastLocationId": "owned-0001"
+    },
+    {
+      "typeSlug": "dispenser-jar",
+      "id": "dispenser-jar-0008",
+      "availableForDelivery": false,
+      "lastLocationId": "customer-0002"
+    },
+    {
+      "typeSlug": "dispenser-jar",
+      "id": "dispenser-jar-0009",
+      "availableForDelivery": true,
+      "lastLocationId": "owned-0001"
+    },
+    {
+      "typeSlug": "dispenser-jar",
+      "id": "dispenser-jar-0010",
+      "availableForDelivery": false,
+      "lastLocationId": "customer-0001"
+    }
+  ]
+}

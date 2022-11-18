@@ -1,0 +1,32 @@
+{
+  "deliveries": [
+    {
+      "deliveryId": "0001",
+      "originLocationId": "owned-0001",
+      "destinationLocationId": "customer-0001",
+      "date": "2022-10-11",
+      "resourceIds": ["dispenser-jar-0001", "dispenser-jar-0001"],
+      "deliveryStatus": "in-transit"
+    },
+    {
+      "deliveryId": "0002",
+      "originLocationId": "owned-0001",
+      "destinationLocationId": "customer-0002",
+      "date": "2022-10-15",
+      "resourceIds": [
+        "dispenser-jar-0003",
+        "dispenser-jar-0005",
+        "dispenser-jar-0006"
+      ],
+      "deliveryStatus": "delivered"
+    },
+    {
+      "deliveryId": "0003",
+      "originLocationId": "customer-0003",
+      "destinationLocationId": "owned-0001",
+      "date": "2022-10-15",
+      "resourceIds": ["dispenser-jar-0008", "dispenser-jar-0010"],
+      "deliveryStatus": "delivered"
+    }
+  ]
+}

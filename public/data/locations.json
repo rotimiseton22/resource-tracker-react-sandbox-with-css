@@ -1,0 +1,28 @@
+{
+  "locations": [
+    {
+      "locationId": "owned-0001",
+      "name": "factory",
+      "address": "35 prince adeyemi street, ikotun, lagos",
+      "phone": "+2348033029166"
+    },
+    {
+      "locationId": "customer-0001",
+      "name": "chapel of christ our light",
+      "address": "1 unilag road, akoka, lagos",
+      "phone": "+2348068313751"
+    },
+    {
+      "locationId": "customer-0002",
+      "name": "vitafoam",
+      "address": "1 akinola street, ogba, lagos",
+      "phone": "+2348033207654"
+    },
+    {
+      "locationId": "customer-0003",
+      "name": "ogudu club house",
+      "address": "10 club house road, ogudu gra, lagos",
+      "phone": "+2347061110999"
+    }
+  ]
+}
